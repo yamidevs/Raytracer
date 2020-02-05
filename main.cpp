@@ -59,7 +59,6 @@ public:
     friend Vec3 operator / (const float &r, const Vec3 &v);
 };
 
-// surcacharge affichage
 std::ostream& operator<<(std::ostream & os , const Vec3 & v){
     os << v.x  << "  "  << v.y << "  " << v.z << " ";
     return os;
