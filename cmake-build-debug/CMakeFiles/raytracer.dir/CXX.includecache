@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yamisaaf/Bureau/raytracer/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+cmath
+-
+limits
+-
+
