@@ -84,6 +84,54 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Camera.cpp">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Camera.h">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Image.cpp">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Image.h">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Light.cpp">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Light.h">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Ray.cpp">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Ray.h">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Scene.cpp">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Scene.h">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Shape.cpp">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Shape.h">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Sphere.cpp">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Sphere.h">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Vec3.cpp">
+			<Option target="raytracer"/>
+		</Unit>
+		<Unit filename="/home/yamisaaf/Bureau/raytracer/Vec3.h">
+			<Option target="raytracer"/>
+		</Unit>
 		<Unit filename="/home/yamisaaf/Bureau/raytracer/main.cpp">
 			<Option target="raytracer"/>
 		</Unit>

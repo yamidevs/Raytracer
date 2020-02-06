@@ -70,17 +70,137 @@ CMakeFiles/raytracer.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raytracer.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yamisaaf/Bureau/raytracer/main.cpp -o CMakeFiles/raytracer.dir/main.cpp.s
 
+CMakeFiles/raytracer.dir/Vec3.cpp.o: CMakeFiles/raytracer.dir/flags.make
+CMakeFiles/raytracer.dir/Vec3.cpp.o: ../Vec3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yamisaaf/Bureau/raytracer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/raytracer.dir/Vec3.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raytracer.dir/Vec3.cpp.o -c /home/yamisaaf/Bureau/raytracer/Vec3.cpp
+
+CMakeFiles/raytracer.dir/Vec3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raytracer.dir/Vec3.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yamisaaf/Bureau/raytracer/Vec3.cpp > CMakeFiles/raytracer.dir/Vec3.cpp.i
+
+CMakeFiles/raytracer.dir/Vec3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raytracer.dir/Vec3.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yamisaaf/Bureau/raytracer/Vec3.cpp -o CMakeFiles/raytracer.dir/Vec3.cpp.s
+
+CMakeFiles/raytracer.dir/Image.cpp.o: CMakeFiles/raytracer.dir/flags.make
+CMakeFiles/raytracer.dir/Image.cpp.o: ../Image.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yamisaaf/Bureau/raytracer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/raytracer.dir/Image.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raytracer.dir/Image.cpp.o -c /home/yamisaaf/Bureau/raytracer/Image.cpp
+
+CMakeFiles/raytracer.dir/Image.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raytracer.dir/Image.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yamisaaf/Bureau/raytracer/Image.cpp > CMakeFiles/raytracer.dir/Image.cpp.i
+
+CMakeFiles/raytracer.dir/Image.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raytracer.dir/Image.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yamisaaf/Bureau/raytracer/Image.cpp -o CMakeFiles/raytracer.dir/Image.cpp.s
+
+CMakeFiles/raytracer.dir/Scene.cpp.o: CMakeFiles/raytracer.dir/flags.make
+CMakeFiles/raytracer.dir/Scene.cpp.o: ../Scene.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yamisaaf/Bureau/raytracer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/raytracer.dir/Scene.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raytracer.dir/Scene.cpp.o -c /home/yamisaaf/Bureau/raytracer/Scene.cpp
+
+CMakeFiles/raytracer.dir/Scene.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raytracer.dir/Scene.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yamisaaf/Bureau/raytracer/Scene.cpp > CMakeFiles/raytracer.dir/Scene.cpp.i
+
+CMakeFiles/raytracer.dir/Scene.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raytracer.dir/Scene.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yamisaaf/Bureau/raytracer/Scene.cpp -o CMakeFiles/raytracer.dir/Scene.cpp.s
+
+CMakeFiles/raytracer.dir/Ray.cpp.o: CMakeFiles/raytracer.dir/flags.make
+CMakeFiles/raytracer.dir/Ray.cpp.o: ../Ray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yamisaaf/Bureau/raytracer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/raytracer.dir/Ray.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raytracer.dir/Ray.cpp.o -c /home/yamisaaf/Bureau/raytracer/Ray.cpp
+
+CMakeFiles/raytracer.dir/Ray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raytracer.dir/Ray.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yamisaaf/Bureau/raytracer/Ray.cpp > CMakeFiles/raytracer.dir/Ray.cpp.i
+
+CMakeFiles/raytracer.dir/Ray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raytracer.dir/Ray.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yamisaaf/Bureau/raytracer/Ray.cpp -o CMakeFiles/raytracer.dir/Ray.cpp.s
+
+CMakeFiles/raytracer.dir/Shape.cpp.o: CMakeFiles/raytracer.dir/flags.make
+CMakeFiles/raytracer.dir/Shape.cpp.o: ../Shape.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yamisaaf/Bureau/raytracer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/raytracer.dir/Shape.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raytracer.dir/Shape.cpp.o -c /home/yamisaaf/Bureau/raytracer/Shape.cpp
+
+CMakeFiles/raytracer.dir/Shape.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raytracer.dir/Shape.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yamisaaf/Bureau/raytracer/Shape.cpp > CMakeFiles/raytracer.dir/Shape.cpp.i
+
+CMakeFiles/raytracer.dir/Shape.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raytracer.dir/Shape.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yamisaaf/Bureau/raytracer/Shape.cpp -o CMakeFiles/raytracer.dir/Shape.cpp.s
+
+CMakeFiles/raytracer.dir/Light.cpp.o: CMakeFiles/raytracer.dir/flags.make
+CMakeFiles/raytracer.dir/Light.cpp.o: ../Light.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yamisaaf/Bureau/raytracer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/raytracer.dir/Light.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raytracer.dir/Light.cpp.o -c /home/yamisaaf/Bureau/raytracer/Light.cpp
+
+CMakeFiles/raytracer.dir/Light.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raytracer.dir/Light.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yamisaaf/Bureau/raytracer/Light.cpp > CMakeFiles/raytracer.dir/Light.cpp.i
+
+CMakeFiles/raytracer.dir/Light.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raytracer.dir/Light.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yamisaaf/Bureau/raytracer/Light.cpp -o CMakeFiles/raytracer.dir/Light.cpp.s
+
+CMakeFiles/raytracer.dir/Sphere.cpp.o: CMakeFiles/raytracer.dir/flags.make
+CMakeFiles/raytracer.dir/Sphere.cpp.o: ../Sphere.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yamisaaf/Bureau/raytracer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/raytracer.dir/Sphere.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raytracer.dir/Sphere.cpp.o -c /home/yamisaaf/Bureau/raytracer/Sphere.cpp
+
+CMakeFiles/raytracer.dir/Sphere.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raytracer.dir/Sphere.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yamisaaf/Bureau/raytracer/Sphere.cpp > CMakeFiles/raytracer.dir/Sphere.cpp.i
+
+CMakeFiles/raytracer.dir/Sphere.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raytracer.dir/Sphere.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yamisaaf/Bureau/raytracer/Sphere.cpp -o CMakeFiles/raytracer.dir/Sphere.cpp.s
+
+CMakeFiles/raytracer.dir/Camera.cpp.o: CMakeFiles/raytracer.dir/flags.make
+CMakeFiles/raytracer.dir/Camera.cpp.o: ../Camera.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yamisaaf/Bureau/raytracer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/raytracer.dir/Camera.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/raytracer.dir/Camera.cpp.o -c /home/yamisaaf/Bureau/raytracer/Camera.cpp
+
+CMakeFiles/raytracer.dir/Camera.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/raytracer.dir/Camera.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yamisaaf/Bureau/raytracer/Camera.cpp > CMakeFiles/raytracer.dir/Camera.cpp.i
+
+CMakeFiles/raytracer.dir/Camera.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/raytracer.dir/Camera.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yamisaaf/Bureau/raytracer/Camera.cpp -o CMakeFiles/raytracer.dir/Camera.cpp.s
+
 # Object files for target raytracer
 raytracer_OBJECTS = \
-"CMakeFiles/raytracer.dir/main.cpp.o"
+"CMakeFiles/raytracer.dir/main.cpp.o" \
+"CMakeFiles/raytracer.dir/Vec3.cpp.o" \
+"CMakeFiles/raytracer.dir/Image.cpp.o" \
+"CMakeFiles/raytracer.dir/Scene.cpp.o" \
+"CMakeFiles/raytracer.dir/Ray.cpp.o" \
+"CMakeFiles/raytracer.dir/Shape.cpp.o" \
+"CMakeFiles/raytracer.dir/Light.cpp.o" \
+"CMakeFiles/raytracer.dir/Sphere.cpp.o" \
+"CMakeFiles/raytracer.dir/Camera.cpp.o"
 
 # External object files for target raytracer
 raytracer_EXTERNAL_OBJECTS =
 
 raytracer: CMakeFiles/raytracer.dir/main.cpp.o
+raytracer: CMakeFiles/raytracer.dir/Vec3.cpp.o
+raytracer: CMakeFiles/raytracer.dir/Image.cpp.o
+raytracer: CMakeFiles/raytracer.dir/Scene.cpp.o
+raytracer: CMakeFiles/raytracer.dir/Ray.cpp.o
+raytracer: CMakeFiles/raytracer.dir/Shape.cpp.o
+raytracer: CMakeFiles/raytracer.dir/Light.cpp.o
+raytracer: CMakeFiles/raytracer.dir/Sphere.cpp.o
+raytracer: CMakeFiles/raytracer.dir/Camera.cpp.o
 raytracer: CMakeFiles/raytracer.dir/build.make
 raytracer: CMakeFiles/raytracer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/yamisaaf/Bureau/raytracer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable raytracer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/yamisaaf/Bureau/raytracer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable raytracer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/raytracer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
