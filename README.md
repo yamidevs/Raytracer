@@ -1,2 +1,2 @@
 # Raytracer
-:doge:
+start of a raytracer engine
